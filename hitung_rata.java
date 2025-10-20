@@ -1,7 +1,7 @@
 package Modul_1;
 
 import java.util.Scanner;
-
+// perubahan setelah di edit
 public class hitung_rata {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
