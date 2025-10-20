@@ -1,0 +1,24 @@
+Input:
+  nama : String
+  nilai : Integer
+
+Proses:
+  jika nilai >= 60 → status = "Lulus"
+  jika nilai < 60 → status = "Tidak Lulus"
+
+Output:
+  Cetak "Nama: <nama>, Status: <status>"
+penjelasan
+program untuk menentukan mahasiswa lulus atau tidak
+Precondition
+-nama harus berupa String.
+-nilai harus Integer
+
+Command
+-Program menerima input nama dan nilai.
+-Program mengecek nilai:
+    Jika nilai >= 60, status = "Lulus".
+    Jika nilai < 60, status = "Tidak Lulus".
+
+Postcondition
+-Program menghasilkan output berupa teks: "Nama: <nama>, Status: <status>"
